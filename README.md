@@ -1,4 +1,3 @@
 # Jogo_adivinha
-Calculadora criada em Python
-Com som para vitória e para a derrota
-Pontuação e nível de dificuldade.
+Calculadora criada em Python,
+com som para vitória e para a derrota, pontuação e nível de dificuldade.
